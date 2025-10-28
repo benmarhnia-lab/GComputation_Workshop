@@ -1,6 +1,6 @@
 # GComputation_Workshop
 
-This repository includes three sets of code:
+This repository includes three sets of code related to g-computation:
 
 1: Chapter 13 from the What If Causal Inference Textbook (https://miguelhernan.org/whatifbook):
 File: chapter13.R
